@@ -148,17 +148,12 @@
                     </div>
                     <div class="seperator"></div>
                 </div>
-                <div class="botSection">
-                    <div class="messages bot-reply">
-
-                    </div>
-                    <div class="seperator"></div>
-                </div>
             </div>
 
             <div id="inputArea">
                 <form action="#" method="POST">
-                    <input type="text" name="messages" id="userInput" placeholder="Please enter your message here" required>
+                    <input type="text" name="messages" id="userInput" placeholder="Please enter your message here"
+                        required>
                     <input type="submit" id="send" value="Send">
                 </form>
 
